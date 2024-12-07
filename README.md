@@ -36,7 +36,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/HyperDrone.png" alt="Hyper Drone" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -51,7 +51,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/PlinkoPals.png" alt="Plinko Pals" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -66,7 +66,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/ClimbDontDig.png" alt="Plinko Pals" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -81,7 +81,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Pip.png" alt="Plinko Pals" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -96,7 +96,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Diss.png" alt="Dissertation" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -111,7 +111,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/GamesCW.png" alt="Games Coursework" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -126,7 +126,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/MapCW.png" alt="Map Coursework" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -140,7 +140,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/AIVis.png" alt="AI Visualisation" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -155,7 +155,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/FarmCW.png" alt="C++ Coursework" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -170,7 +170,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/SnakeCW.png" alt="Snake Coursework" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -185,7 +185,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/DriftKing.png" alt="Drift King" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -200,7 +200,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Sandpit.png" alt="Sandpit" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -215,7 +215,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Blink.png" alt="Blink" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -230,7 +230,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Split.png" alt="Split" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -245,7 +245,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Cannon.png" alt="Cannon Chaos" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -260,7 +260,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/Slime.png" alt="Life of Slime" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -275,7 +275,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/ALevelCW.png" alt="A Level Coursework" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -290,7 +290,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/LostLight.png" alt="Lost Light Level Editor" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
@@ -305,7 +305,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="Thumbnails/EPQ.png" alt="EPQ" width="200">
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
