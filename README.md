@@ -39,7 +39,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 <table>
 <tr>
 <td>
-<img src="/Thumbnails/Drone.png" alt="Crazy Web Game Screenshot" width="200">
+<img src="Thumbnails/Drone.png" alt="Crazy Web Game Screenshot" width="200">
 </td>
 <td>
 <p><strong>Crazy Web Game 2024 Finalist</strong></p>
