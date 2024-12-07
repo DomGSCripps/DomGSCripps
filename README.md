@@ -39,7 +39,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 <table>
 <tr>
 <td>
-<img src="images/crazy_web_game.png" alt="Crazy Web Game Screenshot" width="150">
+<img src="/Thumbnails/Drone.png" alt="Crazy Web Game Screenshot" width="200">
 </td>
 <td>
 <p><strong>Crazy Web Game 2024 Finalist</strong></p>
@@ -57,7 +57,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 <table>
 <tr>
 <td>
-<img src="images/mobile_game.png" alt="Mobile Game Screenshot" width="150">
+<img src="/Thumbnails/Plinko.png" alt="Plinko Pals" width="200">
 </td>
 <td>
 <p><strong>Mobile Game: Title</strong></p>
