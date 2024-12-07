@@ -276,6 +276,74 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 <table>
   <tr>
     <td>
+      <h3>Cannon Chaos - Brackeys 2021.2</h3>
+      <p><strong>Date:</strong> August 2021</p>
+      <p>A submission to the Brackeys 2021.2 Game Jam with the theme "Let There Be Chaos". It is a 3D puzzle game in which you need to place items in the correct locations in order to successfully sink ships.</p>
+      <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, Blender</p>
+      <a href="https://domcripps.itch.io/cannon-chaos">Play</a>, <a href="https://youtu.be/r72qOOkpT3Y">See Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/Cannon.png" alt="Cannon Chaos" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>Life of Slime - GMTK 2021</h3>
+      <p><strong>Date:</strong> June 2021</p>
+      <p>A submission to the GMTK Game Jam 2021 with the theme "Joined Together". It is a 2D platformer where you play as a slime. When you are attacked by other slimes you grow larger, which in turn makes the game more difficult.</p>
+      <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, Piskel</p>
+      <a href="https://domcripps.itch.io/life-of-slime">Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/Slime.png" alt="Life of Slime" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>A Level Computer Science Coursework</h3>
+      <p><strong>Date:</strong> January 2021</p>
+      <p>Coursework created for my A-Level Computer Science class. It was created in Unreal Engine and was my first ever pure C++ project in Unreal.</p>
+      <p><strong>Languages and Tools:</strong> Unreal Engine 4, C++, Blender</p>
+      <a href="https://studio.youtube.com/video/r1G5bGsGGh0/edit">Watch Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/ALevelCW.png" alt="A Level Coursework" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>Lost Light - Brackeys 2020.2</h3>
+      <p><strong>Date:</strong> August 2020</p>
+      <p>Created for the Brackeys 2020.2 Game Jam with the theme "Rewind". The player has the ability to rewind the motion of dynamic obstacles. The game was my first submission to a game jam and features a custom-level editor.</p>
+      <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, C++</p>
+      <a href="https://domcripps.itch.io/lost-light">Play</a>, <a href="https://youtu.be/bdKRP0EHu8E">See Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/LostLight.png" alt="Lost Light Level Editor" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <h3>Virtual Labs - A Level EPQ Artifact</h3>
       <p><strong>Date:</strong> May 2020</p>
       <p>Created as part of my EPQ for which I received an A. The project demonstrates how virtual environments can be a valuable tool in STEM education by simulating a required GCSE physics experiment.</p>
