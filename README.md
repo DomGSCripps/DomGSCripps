@@ -34,36 +34,31 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 ## Projects
 
-### Crazy Web Game 2024 Finalist
-
 <table>
-<tr>
-<td style="width: 20%; text-align: center;">
-<img src="Thumbnails/HyperDrone.png" alt="Crazy Web Game Screenshot" width="200">
-</td>
-<td style="width: 80%;">
-<p><strong>Crazy Web Game 2024 Finalist</strong></p>
-<p>A finalist entry in the Crazy Web Game 2024, an international competition sponsored by Unity. Currently in incubation for final submission and publishing.</p>
-<p><strong>Technologies:</strong> Unity, C#</p>
-<p>[<a href="#">Play Now</a>] | [<a href="#">GitHub Repo</a>]</p>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="Thumbnails/HyperDrone.png" alt="Hyper Drone" width="200">
+    </td>
+    <td style="padding-left: 16px; vertical-align: top;">
+      <h3>Crazy Web Game 2024 Finalist</h3>
+      <p><strong>Date:</strong> November 2024</p>
+      <p>This is a brief description of the project. It provides an overview of the project's purpose and key features.</p>
+      <a href="">Visit Project</a>
+    </td>
+  </tr>
 </table>
 
----
-
-### Mobile Game: Title
 
 <table>
-<tr>
-<td style="width: 20%; text-align: center;">
-<img src="/Thumbnails/PlinkoPals.png" alt="Plinko Pals" width="200">
-</td>
-<td style="width: 80%;">
-<p><strong>Mobile Game: Title</strong></p>
-<p>A mobile game developed using Unity and C#. Features polished gameplay mechanics and engaging design.</p>
-<p><strong>Technologies:</strong> Unity, C#</p>
-<p>[<a href="https://domcripps.itch.io/plinko-pals">Play Now</a>]</p>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="Thumbnails/PlinkoPals.png" alt="Plinko Pals" width="200">
+    </td>
+    <td style="padding-left: 16px; vertical-align: top;">
+      <h3>Plinko Pals - Ludum Dare 2024</h3>
+      <p><strong>Date:</strong> October 2024</p>
+      <p>This is a brief description of the project. It provides an overview of the project's purpose and key features.</p>
+      <a href="">Visit Project</a>
+    </td>
+  </tr>
 </table>
