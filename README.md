@@ -1,4 +1,4 @@
-# Dominic Cripps - Portfolio
+# Dominic Cripps
 
 Welcome to my portfolio! I am a Computer Science graduate and independent game developer with a passion for creating engaging, innovative projects. Below, you’ll find details about my qualifications and notable projects.
 
@@ -15,9 +15,9 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
   
 - **Education:**
   - **BSc (Hons) Computer Science**  
-    University of Nottingham | First-Class Honours (77%)  
+    University of Nottingham | First-Class Honours  
     Dissertation: A Comparative Analysis of Two-Dimensional Run Length Encoding for Image Compression (Grade: First)
-  - **A-Levels:** Mathematics (A*), Further Mathematics (A*), Computer Science (A*), Physics (A*), EPQ(A)
+  - **A-Levels:** Mathematics (A*), Further Mathematics (A*), Computer Science (A*), Physics (A*), EPQ (A)
   
 - **Skills:**
   - Programming: C++, C#, Python, Java, JavaScript, HTML/CSS
@@ -38,10 +38,10 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
 <tr>
-<td>
-<img src="Thumbnails/Drone.png" alt="Crazy Web Game Screenshot" width="200">
+<td style="width: 20%; text-align: center;">
+<img src="Thumbnails/HyperDrone.png" alt="Crazy Web Game Screenshot" width="200">
 </td>
-<td>
+<td style="width: 80%;">
 <p><strong>Crazy Web Game 2024 Finalist</strong></p>
 <p>A finalist entry in the Crazy Web Game 2024, an international competition sponsored by Unity. Currently in incubation for final submission and publishing.</p>
 <p><strong>Technologies:</strong> Unity, C#</p>
@@ -56,14 +56,14 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 
 <table>
 <tr>
-<td>
-<img src="/Thumbnails/Plinko.png" alt="Plinko Pals" width="200">
+<td style="width: 20%; text-align: center;">
+<img src="/Thumbnails/PlinkoPals.png" alt="Plinko Pals" width="200">
 </td>
-<td>
+<td style="width: 80%;">
 <p><strong>Mobile Game: Title</strong></p>
 <p>A mobile game developed using Unity and C#. Features polished gameplay mechanics and engaging design.</p>
 <p><strong>Technologies:</strong> Unity, C#</p>
-<p>[<a href="#">Play Now</a>] | [<a href="#">GitHub Repo</a>]</p>
+<p>[<a href="https://domcripps.itch.io/plinko-pals">Play Now</a>]</p>
 </td>
 </tr>
 </table>
