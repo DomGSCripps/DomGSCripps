@@ -44,7 +44,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> November 2024</p>
       <p>Selected as one of 10 finalists in the Crazy Web Game Jam 2024, an international competition sponsored by Unity, with 2000+ participants and 317 games submitted. Hyper Drone Racing is a Mario Kart x Speedrunners inspired racing game in which you play as drones. It was also my first online multiplayer game.</p>
       <p><strong>Languages and Tools:</strong> C#, Unity 6, Photon PUN2, Asesprite</p>
-      <a href="https://www.youtube.com/watch?v=h9xFrVSujGc">Watch Incubation Announcement</a>
+      <a href="https://www.youtube.com/watch?v=h9xFrVSujGc">Finalists Announcement</a>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> August 2024</p>
       <p>Submission for the GMTK Game Jam 2024. Pip is a tile-based puzzle game in which you grow gardens using seeds. It placed 103rd out of 7,595 entries.</p>
       <p><strong>Languages and Tools:</strong> C#, Unity 2022.3, Asesprite</p>
-      <a href="https://itch.io/jam/gmtk-2024/rate/2906302">Play</a>
+      <a href="https://itch.io/jam/gmtk-2024/rate/2906302">Play</a>, <a href="https://youtu.be/i--pTwLQfDw">See Demo</a>
     </td>
   </tr>
 </table>
@@ -104,7 +104,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> April 2024</p>
       <p>This project received a First. This project creates an application that exploits two-dimensional spatial redundancy through the use of a new 2D Run Length Encoding (2D RLE) algorithm in conjunction with existing encoding methods, such as Deflate, Huffman Coding, and the Burrows-Wheeler Transformation. The proposed 2D RLE algorithm when followed with Deflate compression consistently performed better than PNG for low entropy images and similarly to PNG for high entropy images.</p>
       <p><strong>Languages and Tools:</strong> C++, Deleaker, OpenCV, ZLib, Python 3</p>
-      <a href="">Download Report</a>
+      <a href="Resources/Dissertation.pdf">Report</a>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> April 2024</p>
       <p>This coursework was a 4th year module and received a grade of 87%. You play as a silhouette and every time you close your eyes 'Blink' the world stops existing. You can pass through walls, floors, and all types of obstacles.</p>
       <p><strong>Languages and Tools:</strong> C#, Unity 2022.3, Asesprite</p>
-      <a href="https://domcripps.itch.io/blink-20">Visit Project</a>
+      <a href="https://domcripps.itch.io/blink-20">Visit Project</a>, <a href="https://youtu.be/-xyG8-jI4fA">See Demo</a>
     </td>
   </tr>
 </table>
@@ -132,9 +132,8 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
     <td style="padding-left: 16px; vertical-align: top;">
       <h3>3rd Year Mobile Development Coursework - Geo Tracker</h3>
       <p><strong>Date:</strong> November 2023</p>
-      <p>This is a brief description of the project. It provides an overview of the project's purpose and key features.</p>
+      <p>An app in which users can record and track their journeys on a map. Users can select their mode of transport, pin places of interest, and add notes to trips.</p>
       <p><strong>Languages and Tools:</strong> Android Studio, Open Street Maps API, Java</p>
-      <a href="">Visit Project</a>
     </td>
   </tr>
 </table>
@@ -149,7 +148,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> May 2023</p>
       <p>A year-long group project with the aim of representing AI models in an informative and understandable way. It provides intuitive tools for visualising, generating, and interacting with various AI models. Received a grade of 85%.</p>
       <p><strong>Languages and Tools:</strong> Python 3, Plotly, SKlearn, Dash</p>
-      <a href="">Download Report</a>
+      <a href="Resources/AIVisualisationReport.pdf">Report</a>
     </td>
   </tr>
 </table>
@@ -194,7 +193,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> November 2022</p>
       <p>A mobile endless runner where you play as a car and can only control steering by either drifting left or drifting right. Published on the Google Play store with 1200+ installations. First look at Unity optimisations e.g. object pooling, Unity Profiler.</p>
       <p><strong>Languages and Tools:</strong> C#, Unity 2022, Blender, Asesprite</p>
-      <a href="https://domcripps.itch.io/drift-king-3d">Play</a>
+      <a href="https://domcripps.itch.io/drift-king-3d">Play</a>, <a href="https://youtu.be/QZCCU-xeAI4">See Demo</a>
     </td>
   </tr>
 </table>
@@ -224,7 +223,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> February 2022</p>
       <p>Won the 2022.1 Brackeys Game Development Competition, placing 1st in the Innovation Category and 6th overall out of 1,600 entries.</p>
       <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, C++, Piskel</p>
-      <a href="https://itch.io/jam/brackeys-7/rate/1412513">Play</a>
+      <a href="https://itch.io/jam/brackeys-7/rate/1412513">Play</a>, <a href="https://youtu.be/xtjeWKtBd3Y">See Demo</a>
     </td>
   </tr>
 </table>
@@ -254,7 +253,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> August 2021</p>
       <p>A submission to the Brackeys 2021.2 Game Jam with the theme "Let There Be Chaos". It is a 3D puzzle game in which you need to place items in the correct locations in order to successfully sink ships.</p>
       <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, Blender</p>
-      <a href="https://domcripps.itch.io/cannon-chaos">Play</a>
+      <a href="https://domcripps.itch.io/cannon-chaos">Play</a>, <a href="https://youtu.be/r72qOOkpT3Y">See Demo</a>
     </td>
   </tr>
 </table>
@@ -269,7 +268,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> June 2021</p>
       <p>A submission to the GMTK Game Jam 2021 with the theme "Joined Together". It is a 2D platformer where you play as a slime, when you are attacked by other slimes you grow larger which in turn makes the game more difficult.</p>
       <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, Piskel</p>
-      <a href="https://domcripps.itch.io/life-of-slime">Play</a>
+      <a href="https://domcripps.itch.io/life-of-slime">Play</a> 
     </td>
   </tr>
 </table>
@@ -299,7 +298,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <p><strong>Date:</strong> August 2020</p>
       <p>Created for the Brackeys 2020.2 Game Jam with the theme "Rewind". The player has the ability to rewind the motion of dynamic obstacles. The game was my first submission to a game jam and features a custom-level editor.</p>
       <p><strong>Languages and Tools:</strong> Unreal Engine 4, UE Blueprints, C++</p>
-      <a href="https://domcripps.itch.io/lost-light">Play</a>
+      <a href="https://domcripps.itch.io/lost-light">Play</a>, <a href="https://youtu.be/bdKRP0EHu8E">See Demo</a>
     </td>
   </tr>
 </table>
