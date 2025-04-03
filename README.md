@@ -24,7 +24,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
   - Areas of Expertise: Game Development, Image Processing, Explainable AI
 
 - **Achievements:**
-  - Finalist in Crazy Web Game 2024 (Top 10 out of 317 games, sponsored by Unity)
+  - Winner of Crazy Web Game 2024 (1st out of 317 games, sponsored by Unity)
   - Winner of the 2022.1 Brackeys Game Development Competition (1st in Innovation Category)
   - Undergraduate High Achievers recognition at the University of Nottingham
 
@@ -77,7 +77,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
     <td>
       <h3>Plinko Pals - Ludum Dare 2024</h3>
       <p><strong>Date:</strong> October 2024</p>
-      <p>My entry to Ludum Dare 2024 Game Jam, you care for creatures by dropping food through a challenging Plinko board! Strategically place pegs with unique abilities to maximize your score, earn coins, and unlock powerful upgrades.</p>
+      <p>My entry to Ludum Dare 2024 Game Jam, you care for creatures by dropping food through a challenging Plinko board! Strategically place pegs with unique abilities to maximize your score, earn coins, and unlock powerful upgrades. Developed with a focus on UI polish and animation, as well as menu based gameplay. </p>
       <p><strong>Languages and Tools:</strong> C#, Unity 6, Asesprite</p>
       <a href="https://domcripps.itch.io/plinko-pals">Play</a>
     </td>
@@ -94,7 +94,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
     <td>
       <h3>Climb Don't Dig - Steam Demo</h3>
       <p><strong>Date:</strong> August 2024</p>
-      <p>My first steam demo, you guide a mole from the underground to the surface, relying on an ability to phase through walls and obstacles. As of writing 835 licenses have been claimed.</p>
+      <p>My first steam demo, a 2D platformer in which you guide a mole from the underground to the surface, relying on an ability to phase through walls and obstacles. As of writing 835 licenses have been claimed. One of my first games to have a distinct art style, many systems were created for this project including a dialogue system and a blood decal system that interacts with Unitys 2D tilemaps.</p>
       <p><strong>Languages and Tools:</strong> C#, Unity 2022.3, Asesprite</p>
       <a href="https://store.steampowered.com/app/3272150/Climb_Dont_Dig/">Steam Demo</a>
     </td>
