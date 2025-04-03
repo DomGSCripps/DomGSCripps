@@ -37,6 +37,25 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 <table>
   <tr>
     <td>
+      <h3>Aero Mania - Crazy Web Game Jam 2024 Winner</h3>
+      <p><strong>Date:</strong> April 2025</p>
+      <p>
+        Selected as the overall winner of the Crazy Web Game Jam 2024, Aero Mania is a 2D online multiplier racing game. It was the most polished and full project I have worked on, features include: physics based movement, daily rewards, 8 in-game items, 36 skins, 15 unique race tracks, 5 powerups, ads, currency, persistent save data, singleplayer levels, an event system, online quickplay matchmaking, and (up to 4 people) online multiplayer custom lobbies.
+      </p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 6, Photon PUN2, Aseprite, ByteBrew</p>
+      <a href="https://www.youtube.com/watch?v=3h701Zgrrgc">Winner Announcement</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/AeroMania.png" alt="Aero Mania" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <h3>Hyper Drone Racing - Crazy Web Game Jam 2024 Finalist</h3>
       <p><strong>Date:</strong> November 2024</p>
       <p>
