@@ -62,6 +62,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
         Astro Wave is a small roguelike asteroids game created to show my development methods and full project architecture / structure. Skills presented include: Top Down OOP Design, Object Pooling, Composition, UI Programming / Animations, Dynamic Input based on Device.
       </p>
       <p><strong>Languages and Tools:</strong> C#, Unity 6</p>
+      <a href="https://github.com/DomGSCripps/AstroWave">Project Here</a>
       <a href="https://domcripps.itch.io/astrowave">Play Here</a>
     </td>
   </tr>
