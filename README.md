@@ -63,6 +63,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       </p>
       <p><strong>Languages and Tools:</strong> C#, Unity 6</p>
       <a href="https://github.com/DomGSCripps/AstroWave">Project Here</a>
+      </p>
       <a href="https://domcripps.itch.io/astrowave">Play Here</a>
     </td>
   </tr>
