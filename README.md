@@ -33,6 +33,62 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
 ---
 
 ## Projects
+<table>
+  <tr>
+    <td>
+      <h3>Isle Miner: Idle Land Builder - Vivuga Games </h3>
+      <p><strong>Date:</strong> December 2025</p>
+      <p>
+        The player starts with a small island, as they mine ore they fulfill orders and level up. Levelling up grows the island, unlocking more ore and other features. This project allowed me to experiment with porting independent systems from other existing titles to speed up development. The project was my first experience implementing interstitial adverts for a Vivuga title, and (as of writing) is the project that I have contributed design ideas to the most. 
+      </p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 6, Linear, Miro, Google Sheets</p>
+      <a href="https://play.google.com/store/apps/details?id=com.vivuga.islemineridle">Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/IsleMinerIdle.jpg" alt="Isle Miner: Idle Land Builder" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>Heroes & Princess: Idle Army - Vivuga Games </h3>
+      <p><strong>Date:</strong> September 2025</p>
+      <p>
+        A 2D top down game in which you play as a princess collecting ores, training soldiers and fighting bosses. This project required numerous whole systems and is still ongoing. Systems include: Inventory, Saving, Equipment, Bosses, Automation, Tasks, Tutorials etc. Systems designed in this game have been used in further projects. This game helped me develop skills required for monetisation, independent systems, and engine tools.
+      </p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 6, Linear, Miro, Google Sheets</p>
+      <a href="https://play.google.com/store/apps/details?id=com.vivuga.herotycoon&hl=en_GB">Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/PrincessHeroIdleArmy.png" alt="Heroes & Princess: Idle Army" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>Weapon Drop : Merge Fight - Vivuga Games </h3>
+      <p><strong>Date:</strong> July 2025</p>
+      <p>
+        The first project I was contracted to work on for Vivuga, Weapon Drop : Merge Fight is a puzzle strategy and combat game in which you drop weapons into an arena, neighbouring weapons merge and these are used to attack enemies. This game introduced me to internation collaborative working, industry standard tools for tracking and design, as well new API's; Facebook, DevToDev, Max.
+      </p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 6, Linear, Miro, Google Sheets</p>
+      <a href="https://play.google.com/store/apps/details?id=com.vivuga.weapondrop">Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/WeaponDropMerge.jpg" alt="Weapon Drop : Merge Fight" width="200">
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -40,7 +96,7 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
       <h3>Aero Mania - Crazy Web Game Jam 2024 Winner</h3>
       <p><strong>Date:</strong> April 2025</p>
       <p>
-        Selected as the overall winner of the Crazy Web Game Jam 2024, Aero Mania is a 2D online multiplier racing game. It was the most polished and full project I have worked on, features include: physics based movement, daily rewards, 8 in-game items, 36 skins, 15 unique race tracks, 5 powerups, ads, currency, persistent save data, singleplayer levels, an event system, online quickplay matchmaking, and (up to 4 people) online multiplayer custom lobbies.
+        Selected as the overall winner of the Crazy Web Game Jam 2024, Aero Mania is a 2D online multiplier racing game. It was the most polished and full project I have worked on at the time, features include: physics based movement, daily rewards, 8 in-game items, 36 skins, 15 unique race tracks, 5 powerups, ads, currency, persistent save data, singleplayer levels, an event system, online quickplay matchmaking, and (up to 4 people) online multiplayer custom lobbies.
       </p>
       <p><strong>Languages and Tools:</strong> C#, Unity 6, Photon PUN2, Aseprite, ByteBrew</p>
       <a href="https://www.youtube.com/watch?v=3h701Zgrrgc">Winner Announcement</a>
