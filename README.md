@@ -1,7 +1,4 @@
 # Dominic Cripps
-
-Welcome to my portfolio! I am a game developer with a passion for creating engaging, innovative projects. Below, you’ll find details about my qualifications and notable projects.
-
 ---
 
 <details>
