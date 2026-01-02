@@ -1,12 +1,14 @@
 # Dominic Cripps
 
-Welcome to my portfolio! I am a Computer Science graduate and independent game developer with a passion for creating engaging, innovative projects. Below, you’ll find details about my qualifications and notable projects.
+Welcome to my portfolio! I am a game developer with a passion for creating engaging, innovative projects. Below, you’ll find details about my qualifications and notable projects.
 
 ---
 
 <details>
 <summary><h2>About Me</h2></summary>
-I am a recent graduate in Computer Science from the University of Nottingham with experience in game development, software engineering, and explainable AI. I enjoy creating projects that blend technical problem-solving with creativity, including games, software tools, and research-driven applications.
+I’m a Unity Developer working in mobile game development, currently responsible for the technical development of Unity mobile titles within a multi-team studio environment. I focus on gameplay systems, UI, project architecture, monetization, analytics, and deployment.
+
+I’m a first-class Computer Science graduate with a strong foundation in C++ and C#, and my work has been recognised through international game development competitions, including winning the Crazy Web Game Jam 2024. I enjoy building complete games and solving challenging technical problems in collaborative environments.
 </details>
 
 ---
@@ -19,15 +21,21 @@ I am a recent graduate in Computer Science from the University of Nottingham wit
     Dissertation: A Comparative Analysis of Two-Dimensional Run Length Encoding for Image Compression (Grade: First)
   - **A-Levels:** Mathematics (A*), Further Mathematics (A*), Computer Science (A*), Physics (A), EPQ (A)
   
-- **Skills:**
-  - Programming: C++, C#, Python, Java, JavaScript, HTML/CSS
+- **Technical Skills:**
+  - Languages: C#, C++, Python, Java
   - Areas of Expertise: Game Development, Image Processing, Explainable AI
+  - Tools: Unity, Unreal Engine, Photon PUN 2, Visual Studio
+  - Workflow: Git, Linear, Miro, Slack
+  - Other: Multiplayer networking, editor tooling, data-driven
+design, live iteration, analytics
 
 - **Achievements:**
-  - Winner of Crazy Web Game 2024 (1st out of 317 games, sponsored by Unity)
-  - Winner of the 2022.1 Brackeys Game Development Competition (1st in Innovation Category)
-  - Undergraduate High Achievers recognition at the University of Nottingham
-
+  - Achieved a first-class classification for my dissertation on a new 2D run-length encoding algorithm for image compression, written entirely
+in C++.
+  - Winner of the Crazy Web Game Jam 2024, an international competition sponsored by Unity, selected from 2,000+ participants.
+  - Received the Undergraduate High Achievers award from the University of Nottingham.
+  - Won the 2022.1 Brackeys Game Development Competition – 1st place in Innovation, 6th overall out of 1,600+ entries. Led the project, managed development, and delegated tasks.
+  - Created a modular system for a year-long group project, creating a website to train and visualise AI models with a focus on explainable AI.
 </details>
 
 ---
