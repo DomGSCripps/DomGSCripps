@@ -41,6 +41,25 @@ in C++.
 <table>
   <tr>
     <td>
+      <h3>Scratch 2 - Vivuga Casino Games </h3>
+      <p><strong>Date:</strong> June 2026</p>
+      <p>
+        Scratch 2 is a complete modernisation of an existing Vivuga game, redesigned to deliver a newer more up-to-date player experience. It features a variety of mini-games including Scratch Cards, Bingo, Pyramid, and Slots, alongside cosmetics, a shop, and leaderboards. This project was my first implementation of a leaderboard system for the company. It was developed over 5 months, making it my longest commercial project to date.
+      </p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 6, UGS & Leaderboards, Linear, Miro, Google Sheets</p>
+      <a href="https://play.google.com/store/apps/details?id=com.vivuga.scratchtickets&hl=en_GB">Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/Scratch2.png" alt="Scratch 2" width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <h3>Isle Miner: Idle Land Builder - Vivuga Games </h3>
       <p><strong>Date:</strong> December 2025</p>
       <p>
