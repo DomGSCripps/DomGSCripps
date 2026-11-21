@@ -60,6 +60,23 @@ in C++.
 <table>
   <tr>
     <td>
+      <h3>S.I.G.N.A.L. - Ludum Dare 59</h3>
+      <p><strong>Date:</strong> April 2026</p>
+      <p>Submission for the Ludum Dare 59. S.I.G.N.A.L. is a single player, time management, code decryption game in which you use various machines and perform quick time events to decipher messages. It was made in 3 days, all art and code were made myself during the duration of the jam.</p>
+      <p><strong>Languages and Tools:</strong> C#, Unity 2022.3, Asesprite</p>
+      <a href="https://domcripps.itch.io/signal">Play</a>, <a href="https://www.youtube.com/watch?v=3jQM2eEEzh4">See Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="Thumbnails/SIGNAL.png" alt="S.I.G.N.A.L." width="200">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <h3>Isle Miner: Idle Land Builder - Vivuga Games </h3>
       <p><strong>Date:</strong> December 2025</p>
       <p>
